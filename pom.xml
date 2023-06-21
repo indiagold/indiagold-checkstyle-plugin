@@ -6,7 +6,7 @@
 
     <groupId>co.indiagold</groupId>
     <artifactId>indiagold-checkstyle-plugin</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.0</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
