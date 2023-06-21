@@ -1,0 +1,1 @@
+# indiagold-checkstyle-plugin
